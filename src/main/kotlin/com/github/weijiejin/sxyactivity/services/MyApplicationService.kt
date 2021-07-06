@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.weijiejin.sxyactivity.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.weijiejin.sxyactivity.MyBundle
 
 class MyApplicationService {
 
